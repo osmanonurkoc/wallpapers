@@ -1,5 +1,11 @@
 {
-
+  "Collections": [
+    {
+      "name": "Sonya",
+      "preview_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg"
+    }
+  ],
   "Wallpapers": [
     {
       "name": "Canyon",
