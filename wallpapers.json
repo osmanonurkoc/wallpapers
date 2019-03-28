@@ -4,6 +4,11 @@
       "name": "Sonya",
       "preview_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg"
+    },
+    {
+      "name": "Sylvia",
+      "preview_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sylvia.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sylvia.jpg"
     }
   ],
   "Wallpapers": [
@@ -176,6 +181,150 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/srslyguys_sandy_beach.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Hills",
+      "author": "Adriel Kloppenburg",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/akloppenburg_hills.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/akloppenburg_hills.jpg",
+      "dimensions": "3197x3197",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "El Cap",
+      "author": "Adam Kool",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/akool_el_cap.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/akool_el_cap.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Santorini",
+      "author": "Next Voyage",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/andrzej_santorini.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/andrzej_santorini.jpg",
+      "dimensions": "4000x4000",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Bark",
+      "author": "Jyothish Kumar P.G",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/aviatorjk_bark.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/aviatorjk_bark.jpg",
+      "dimensions": "2048x2048",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Rock",
+      "author": "Daniel Clarke",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/dclarke_rock.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dclarke_rock.jpg",
+      "dimensions": "3442x3442",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Lake",
+      "author": "Drew Coffman",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/dcoffman_lake.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dcoffman_lake.jpg",
+      "dimensions": "2543x2543",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Nature",
+      "author": "Drew Coffman",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/dcoffman_nature.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dcoffman_nature.jpg",
+      "dimensions": "2581x2581",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Canyon",
+      "author": "Daniel Olah",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/dolah_canyon.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dolah_canyon.jpg",
+      "dimensions": "4912x4912",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Yosemite",
+      "author": "James Donovan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/jdonovan_yosemite.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/jdonovan_yosemite.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Sky",
+      "author": "Muhammad Masood",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/mmasood_sky.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/mmasood_sky.jpg",
+      "dimensions": "3539x3539",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Bollard",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/sezgin_bollard.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_bollard.jpg",
+      "dimensions": "3546x3546",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Flowers",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/sezgin_flowers.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_flowers.jpg",
+      "dimensions": "3456x3456",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "White",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/sezgin_white.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_white.jpg",
+      "dimensions": "3456x3456",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Yellow",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/sezgin_yellow.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_yellow.jpg",
+      "dimensions": "3456x3456",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Beach",
+      "author": "Syd Sujuaan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/sydsujuaan_beach.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sydsujuaan_beach.jpg",
+      "dimensions": "2242x2242",
+      "collections": "sylvia",
+      "downloadable": false
+    },
+    {
+      "name": "Glass Ball",
+      "author": "Thomas B.",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sylvia/thomasb_glass_ball.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/thomasb_glass_ball.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sylvia",
       "downloadable": false
     }
   ]
