@@ -1,0 +1,176 @@
+{
+
+  "Wallpapers": [
+    {
+      "name": "Canyon",
+      "author": "Ashim D'Silva",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/dsilva_canyon.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/dsilva_canyon.jpg",
+      "dimensions": "2048x2048",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Lilac",
+      "author": "Eric Kilby",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/ekilby_lilac2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/ekilby_lilac2.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Morzine",
+      "author": "Guy Bowden",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/gbowden_morzine.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/gbowden_morzine.jpg",
+      "dimensions": "2567x2567",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Nature in Red",
+      "author": "Grant McCurdy",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/gmccurdy_nature_in_red.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/gmccurdy_nature_in_red.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Corn",
+      "author": "Harald Hoyer",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/hhoyer_corn.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/hhoyer_corn.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Water",
+      "author": "Jeremy Bishop",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/jbishop_water.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jbishop_water.jpg",
+      "dimensions": "2880x2880",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Mount Saint Helens",
+      "author": "Jason Leem",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/jleem_mount_saint_helens.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jleem_mount_saint_helens.jpg",
+      "dimensions": "2243x2243",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Palm",
+      "author": "Jakob Owens",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/jowens_palm.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jowens_palm.jpg",
+      "dimensions": "2560x2560",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Alberta",
+      "author": "Matheus Bandoch",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/mbandoch_alberta.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/mbandoch_alberta.jpg",
+      "dimensions": "2543x2543",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Street Lights",
+      "author": "N. Feans",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/nfeans_street_lights.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/nfeans_street_lights.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Waterfall",
+      "author": "Robert Lukeman",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/rlukeman_waterfall.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/rlukeman_waterfall.jpg",
+      "dimensions": "2323x2323",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Snow",
+      "author": "Stanley Dai",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/sdai_snow.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sdai_snow.jpg",
+      "dimensions": "2743x2743",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Drop",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/sezgin_drop.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_drop.jpg",
+      "dimensions": "2560x2560",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Green",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/sezgin_green.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_green.jpg",
+      "dimensions": "2560x2560",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "White",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/sezgin_white.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_white.jpg",
+      "dimensions": "2560x2560",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Yellow",
+      "author": "Sezgin Mendil",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/sezgin_yellow.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_yellow.jpg",
+      "dimensions": "2560x2560",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Valley",
+      "author": "Shontz Photography",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/shontz_valley.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/shontz_valley.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Phragmites",
+      "author": "srslyguys",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/srslyguys_phragmites.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/srslyguys_phragmites.jpg",
+      "dimensions": "2880x2880",
+      "collections": "sonya",
+      "downloadable": false
+    },
+    {
+      "name": "Sandy Beach",
+      "author": "srslyguys",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/sonya/srslyguys_sandy_beach.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/srslyguys_sandy_beach.jpg",
+      "dimensions": "2160x2160",
+      "collections": "sonya",
+      "downloadable": false
+    }
+  ]
+}
