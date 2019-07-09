@@ -326,6 +326,22 @@
       "dimensions": "2160x2160",
       "collections": "sylvia",
       "downloadable": true
+    },
+    {
+      "name": "Unleash Your Potential Blue",
+      "author": "Kate Hazen",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pop_os/kate-hazen-unleash-your-robot-blue.png",
+      "dimensions": "1916x3403",
+      "collections": "pop_os",
+      "downloadable": false
+    },
+    {
+      "name": "Unleash Your Potential",
+      "author": "Kate Hazen.",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pop_os/kate-hazen-unleash-your-robot.png",
+      "dimensions": "1916x3403",
+      "collections": "pop_os",
+      "downloadable": false
     }
   ]
 }
