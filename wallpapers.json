@@ -19,7 +19,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/dsilva_canyon.jpg",
       "dimensions": "2048x2048",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Lilac",
@@ -28,7 +28,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/ekilby_lilac2.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Morzine",
@@ -37,7 +37,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/gbowden_morzine.jpg",
       "dimensions": "2567x2567",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Nature in Red",
@@ -46,7 +46,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/gmccurdy_nature_in_red.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Corn",
@@ -55,7 +55,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/hhoyer_corn.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Water",
@@ -64,7 +64,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jbishop_water.jpg",
       "dimensions": "2880x2880",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Mount Saint Helens",
@@ -73,7 +73,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jleem_mount_saint_helens.jpg",
       "dimensions": "2243x2243",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Palm",
@@ -82,7 +82,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/jowens_palm.jpg",
       "dimensions": "2560x2560",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Alberta",
@@ -91,7 +91,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/mbandoch_alberta.jpg",
       "dimensions": "2543x2543",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Street Lights",
@@ -100,7 +100,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/nfeans_street_lights.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Waterfall",
@@ -109,7 +109,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/rlukeman_waterfall.jpg",
       "dimensions": "2323x2323",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Snow",
@@ -118,7 +118,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sdai_snow.jpg",
       "dimensions": "2743x2743",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Drop",
@@ -127,7 +127,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_drop.jpg",
       "dimensions": "2560x2560",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Green",
@@ -136,7 +136,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_green.jpg",
       "dimensions": "2560x2560",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "White",
@@ -145,7 +145,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_white.jpg",
       "dimensions": "2560x2560",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Yellow",
@@ -154,7 +154,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/sezgin_yellow.jpg",
       "dimensions": "2560x2560",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Valley",
@@ -163,7 +163,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/shontz_valley.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Phragmites",
@@ -172,7 +172,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/srslyguys_phragmites.jpg",
       "dimensions": "2880x2880",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Sandy Beach",
@@ -181,7 +181,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sonya/srslyguys_sandy_beach.jpg",
       "dimensions": "2160x2160",
       "collections": "sonya",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Hills",
@@ -190,7 +190,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/akloppenburg_hills.jpg",
       "dimensions": "3197x3197",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "El Cap",
@@ -199,7 +199,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/akool_el_cap.jpg",
       "dimensions": "2160x2160",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Santorini",
@@ -208,7 +208,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/andrzej_santorini.jpg",
       "dimensions": "4000x4000",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Bark",
@@ -217,7 +217,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/aviatorjk_bark.jpg",
       "dimensions": "2048x2048",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Rock",
@@ -226,7 +226,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dclarke_rock.jpg",
       "dimensions": "3442x3442",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Lake",
@@ -235,7 +235,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dcoffman_lake.jpg",
       "dimensions": "2543x2543",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Nature",
@@ -244,7 +244,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dcoffman_nature.jpg",
       "dimensions": "2581x2581",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Canyon",
@@ -253,7 +253,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/dolah_canyon.jpg",
       "dimensions": "4912x4912",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Yosemite",
@@ -262,7 +262,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/jdonovan_yosemite.jpg",
       "dimensions": "2160x2160",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Sky",
@@ -271,7 +271,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/mmasood_sky.jpg",
       "dimensions": "3539x3539",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Bollard",
@@ -280,7 +280,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_bollard.jpg",
       "dimensions": "3546x3546",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Flowers",
@@ -289,7 +289,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_flowers.jpg",
       "dimensions": "3456x3456",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "White",
@@ -298,7 +298,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_white.jpg",
       "dimensions": "3456x3456",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Yellow",
@@ -307,7 +307,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sezgin_yellow.jpg",
       "dimensions": "3456x3456",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Beach",
@@ -316,7 +316,7 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/sydsujuaan_beach.jpg",
       "dimensions": "2242x2242",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
     },
     {
       "name": "Glass Ball",
@@ -325,7 +325,159 @@
       "thumbnail": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/thumbnails/sylvia/thomasb_glass_ball.jpg",
       "dimensions": "2160x2160",
       "collections": "sylvia",
-      "downloadable": true
+      "downloadable": false
+    },
+    {
+      "name": "Hawaii",
+      "author": "Aaron Thomas",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/aaronphs_hawaii.jpg",
+      "dimensions": "4000x4000",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Flower",
+      "author": "Bruno Fantinatti",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/bfantinatti_flower.jpg",
+      "dimensions": "3457x3457",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Cartier",
+      "author": "Eva Blue",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/evablue_jacques_cartier.jpg",
+      "dimensions": "1928x1928",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Manuwatu River",
+      "author": "Jan Kaluza",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jankaluza_manuwatu_river.jpg",
+      "dimensions": "4000x4000",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Super Abstraction",
+      "author": "Jan Kaluza",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jankaluza_superabstraction.jpg",
+      "dimensions": "4000x4000",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Burrard Inlet",
+      "author": "Jonathan Ferland-Valois",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jfvalois_burrard_inlet.jpg",
+      "dimensions": "2160x2160",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Sugar",
+      "author": "Joanna Kosinska",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jkosinska_sugar.jpg",
+      "dimensions": "4016x4016",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Kauai",
+      "author": "Jakob Owens",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jowens_kauai.jpg",
+      "dimensions": "3648x3648",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Lake",
+      "author": "Johannes Plenio.",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jplenio_lake.jpg",
+      "dimensions": "3238x3238",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Waiting For The Wawes",
+      "author": "Josh Spires",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/jspires_waiting_for_the_waves.jpg",
+      "dimensions": "2992x2992",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Pure Green Grass",
+      "author": "Monika",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/monika_pure_green_grass.jpg",
+      "dimensions": "1440x1440",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Breathtaking Place",
+      "author": "Micha Sager",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/msager_breathtaking_place.jpg",
+      "dimensions": "3070x3070",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Symmetry",
+      "author": "Oskars Sylwan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/oskarssylwan_symmetry.jpg",
+      "dimensions": "3972x3972",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Palm",
+      "author": "Vladimir Proskurovskiy",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/proskurovskiy_palm.jpg",
+      "dimensions": "2912x2912",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Single Blade Of Grass",
+      "author": "Rachael Smith",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/rsmith_single_blade_of_grass.jpg",
+      "dimensions": "4016x4016",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Aso",
+      "author": "Tom Vining",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/tomvining_aso.jpg",
+      "dimensions": "4000x4000",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Toy Store",
+      "author": "Will H McMahan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/whmii_toy_store.jpg",
+      "dimensions": "3968x3968",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Liberty Island",
+      "author": "Luke Stackpoole",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/withluke_liberty_island.jpg",
+      "dimensions": "4850x4850",
+      "collections": "tara",
+      "downloadable": false
+    },
+    {
+      "name": "Machu Picchu",
+      "author": "Willian Justen de Vasconcellos",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/tara/wjusten_machu_picchu.jpg",
+      "dimensions": "4000x4000",
+      "collections": "tara",
+      "downloadable": false
     },
     {
       "name": "Unleash Your Potential Blue",
