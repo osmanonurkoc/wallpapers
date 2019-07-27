@@ -494,6 +494,358 @@
       "dimensions": "1916x3403",
       "collections": "pop_os",
       "downloadable": false
+    },
+    {
+      "name": "Wolf",
+      "author": "Clémence Dupont",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/illustrations/clamence_dupont-wolf.jpg",
+      "dimensions": "1280x1457",
+      "collections": "illustrations",
+      "downloadable": false
+    },
+    {
+      "name": "Aurora",
+      "author": "Clémence Dupont",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/illustrations/clemence_dupont-aurora.jpg",
+      "dimensions": "1280x1280",
+      "collections": "illustrations",
+      "downloadable": false
+    },
+    {
+      "name": "September",
+      "author": "Clémence Dupont",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/illustrations/clemence_dupont-september.jpg",
+      "dimensions": "1280x1280",
+      "collections": "illustrations",
+      "downloadable": false
+    },
+    {
+      "name": "Girl",
+      "author": "Clémence Dupont",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/illustrations/clemence_dupont-girl.jpg",
+      "dimensions": "1280x1280",
+      "collections": "illustrations",
+      "downloadable": false
+    },
+    {
+      "name": "Fireworks",
+      "author": "Lev Ventura",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Lev_Ventura-Fireworks.jpg",
+      "dimensions": "3200x4000",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Fireworks2",
+      "author": "Aaron Huber",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Aaron_Huber-Fireworks2.jpg",
+      "dimensions": "3888x5184",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Globe",
+      "author": "Amanda Vick",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Amanda_Vick-Globe.jpg",
+      "dimensions": "3648x5472",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Umbrellas",
+      "author": "Claudio Schwarz",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Claudio_Schwarz-Umbrellas.jpg",
+      "dimensions": "2613x3919",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Forest",
+      "author": "Cristofer Jeschke",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Cristofer_Jeschke-forest.jpg",
+      "dimensions": "3873x5809",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Envelope",
+      "author": "Diana Akhmetianova",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Diana_Akhmetianova-envelope.jpg",
+      "dimensions": "3456x5184",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Waxing Moon",
+      "author": "Eberhard _Grossgasteiger",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Eberhard _Grossgasteiger-Waxing_Moon.jpg",
+      "dimensions": "3648x5472",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Beach",
+      "author": "Filmplusdigital",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/filmplusdigital-beach.jpg",
+      "dimensions": "2602x3906",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Kronborg Castle",
+      "author": "Emil Widlund",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Emil_Widlund-Kronborg_castle.jpg",
+      "dimensions": "3395x4753",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Holt Street",
+      "author": "Fred Peters",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Fred_Peters-Holt_Street.jpg",
+      "dimensions": "3024x4032",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Flashlight to Cosmos",
+      "author": "Hanson Lu",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Hanson_Lu-Flashlight_to_cosmos.jpg",
+      "dimensions": "3793x5689",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "The Way Up",
+      "author": "Henry & Co.",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Henry_and_Co-The_Way_Up.jpg",
+      "dimensions": "3264x4896",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Ice Cream",
+      "author": "Irene Kredenets",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Irene_Kredenets-Ice_cream.jpg",
+      "dimensions": "2526x3158",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Lighthouse",
+      "author": "James Eades",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/James_Eades-Lighthouse.jpg",
+      "dimensions": "2587x3234",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Apartment",
+      "author": "Jochen Burkhard",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Jochen_Burkhard-Apartment.jpg",
+      "dimensions": "3555x5326",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Maple Leaf",
+      "author": "Julius Drost",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Julius_Drost-Maple_leaf.jpg",
+      "dimensions": "3448x4592",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Bride Groom Tale",
+      "author": "Kayra Sercan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Kayra_Sercan-Bride_Groom_Tale.jpg",
+      "dimensions": "4300x5375",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Leaf",
+      "author": "Kenrick Mills",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Kenrick_Mills-Leaf.jpg",
+      "dimensions": "2041x3061",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "City",
+      "author": "Lerone Pieters",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Lerone_Pieters-City.jpg",
+      "dimensions": "4000x6000",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Bliss",
+      "author": "Luiz Clas",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Luiz_clas-bliss.jpg",
+      "dimensions": "2000x2388",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Shore Waves",
+      "author": "Luke Stackpoole",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Luke_Stackpoole-shore_waves.jpg",
+      "dimensions": "3640x5464",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Just Neon Words",
+      "author": "Maks Styazhkin",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Maks_Styazhkin-Just_neon_words.jpg",
+      "dimensions": "2848x4288",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Rubix Cube",
+      "author": "Marko Blažević",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Marko_Blažević-Rubix_cube.jpg",
+      "dimensions": "4293x6439",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Perspective",
+      "author": "Matheus Bertelli",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Matheus_Bertelli-Perspective.jpg",
+      "dimensions": "3504x5256",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Rasolina,Italy",
+      "author": "Michael Baccin",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Michael_Baccin-Rasolina_Italy.jpg",
+      "dimensions": "2992x3992",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Ace",
+      "author": "Nathan Dumlao",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Nathan_Dumlao-Ace.jpg",
+      "dimensions": "4480x6720",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Mountain",
+      "author": "Patrick Hendry",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Patrick_Hendry-Mountain.jpg",
+      "dimensions": "5792x8688",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Pebbles",
+      "author": "Patrick Langwallner",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Patrick_Langwallner-Pebbles.jpg",
+      "dimensions": "3648x5472",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Tegallalang",
+      "author": "Patrick Langwallner",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Patrick_Langwallner-Tegallalang.jpg",
+      "dimensions": "3640x5464",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Free Wifi",
+      "author": "Paul Hanaoka",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Paul_Hanaoka-Free_Wifi.jpg",
+      "dimensions": "3140x4710",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Liquid Art",
+      "author": "Paweł Czerwiński",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Paweł_Czerwiński-Liquid_art.jpg",
+      "dimensions": "4000x6000",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Pacific City",
+      "author": "Penguinuhh",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Penguinuhh-Pacific_city.jpg",
+      "dimensions": "2925x3543",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Wall",
+      "author": "Ross Elder",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Ross_Elder-Wall.jpg",
+      "dimensions": "3024x4032",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Hallstat Lake",
+      "author": "Sheng Li",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Sheng_Li-Hallstat_lake.jpg",
+      "dimensions": "4480x6720",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Coop's Shot Tower",
+      "author": "Tony Dinh",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Tony_Dinh-Coop_s_Shot_Tower.jpg",
+      "dimensions": "4000x6000",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Night Vibes",
+      "author": "Torrell_Candela",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Torrell_Candela-Night_vibes.jpg",
+      "dimensions": "4000x6000",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Rays in Dark",
+      "author": "Valentin Lacoste",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Valentin_Lacoste-Rays_in_dark.jpg",
+      "dimensions": "3480x4640",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Camera View",
+      "author": "Yann Allegre",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Yann_Allegre-camera_view.jpg",
+      "dimensions": "3448x4310",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Wet Socks",
+      "author": "Yann Allegre",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Yann_Allegre-Wet_socks.jpg",
+      "dimensions": "3183x3979",
+      "collections": "unsplash",
+      "downloadable": false
+    },
+    {
+      "name": "Moon",
+      "author": "Zoltan Tasi",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/Zoltan_Tasi-moon.jpg",
+      "dimensions": "3334x5170",
+      "collections": "unsplash",
+      "downloadable": false
     }
   ]
 }
