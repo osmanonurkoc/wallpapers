@@ -846,6 +846,14 @@
       "dimensions": "3334x5170",
       "collections": "unsplash",
       "downloadable": false
+    },
+    {
+      "name": "Clock Widget Wallpaper",
+      "author": "Osman Onur Koç",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pendulum_clock.png",
+      "dimensions": "1521x2279",
+      "downloadable": false,
+      "featured": true
     }
   ]
 }
