@@ -1336,6 +1336,22 @@
       "downloadable": true
     },
     {
+      "name": "Herb",
+      "author": "",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/papirus_walls/herb.jpg",
+      "dimensions": "3000x6000",
+      "collections": "chosen_walls",
+      "downloadable": true
+    },
+    {
+      "name": "Cobble",
+      "author": "Javardh",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/papirus_walls/javardh-cobble.jpg",
+      "dimensions": "3000x6000",
+      "collections": "chosen_walls",
+      "downloadable": true
+    },
+    {
       "name": "Clock Widget Wallpaper",
       "author": "Osman Onur Koç",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pendulum_clock.png",
