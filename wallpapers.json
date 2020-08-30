@@ -1,4 +1,17 @@
-[
+{
+  "Collections": [
+    {
+      "name": "Sonya",
+      "preview_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sonya.jpg"
+    },
+    {
+      "name": "Sylvia",
+      "preview_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sylvia.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/Collections/Sylvia.jpg"
+    }
+  ],
+  "Wallpapers": [
     {
       "name": "Unleash Your Potential Blue",
       "author": "Kate Hazen",
@@ -13,6 +26,42 @@
       "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pop_os/kate-hazen-unleash-your-robot.png",
       "dimensions": "1916x3403",
       "collections": "pop_os",
+      "downloadable": true
+    },
+    {
+      "name": "Şehzade Mosque",
+      "author": "Abdelmalek Bensetti",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/abdelmalek-bensetti-Sehzade-Mosque.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "Streetcar",
+      "author": "Parastoo JK",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/parastoo-jk_streetcar.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "Karaköy",
+      "author": "Nilay Sözbir",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/nilay-sozbir_karakoy.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "Galata Tower",
+      "author": "Mohamad Chahadeh",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/mohamad-chahadeh_galata-tower.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "İstanbul",
+      "author": "Stefan Kostoski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/stefan-kostoski_istanbul.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "Dolmabahçe Clock Tower",
+      "author": "Meriç Dağlı",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/unsplash/meric-dagli_dolmabahce-clock-tower.jpg",
       "downloadable": true
     },
     {
@@ -1304,13 +1353,6 @@
       "dimensions": "3000x6000",
       "collections": "chosen_walls",
       "downloadable": true
-    },
-    {
-      "name": "Clock Widget Wallpaper",
-      "author": "Osman Onur Koç",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/wallpapers/master/wallpapers/pendulum_clock.png",
-      "dimensions": "1521x2279",
-      "downloadable": true,
-      "featured": true
     }
   ]
+}
